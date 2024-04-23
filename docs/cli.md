@@ -20,3 +20,9 @@ The `ng serve` command launches the server, watches your files, and rebuilds the
 
 The `--open` (or just `-o`) option automatically opens your browser to `http://localhost:4200/`.
 
+
+Adding Angular Material
+
+```shell    
+ng add @angular/material
+```
